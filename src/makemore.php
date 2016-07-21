@@ -56,7 +56,7 @@ require_once("header.php");
                                 <span class="h2">2.</span>
                                 <h5>Our Solution:</h5>
                                 <p>
-                                    The core idea was to move heavy calculation processes out of the limited computing capacity of the device into unlimitied resources environment (the cloud) and allow data to flow both ways. Simply said - make it possible for cloud/mobile app developers to have control over devices and have their data streams available directly from within the code - in terms of objects and methods.
+                                    We began by discovering who the actual users of this product are going to be, what are their needs and went on to define the core solutions the app needs to provide and core features it should have. After that we went on and defined user stories and wireframes for the whole app. Once we had that nailed down our UI team was able to move in and create a realy pleasant interface that effectivly communicates all the important information and data to the customer.
 
 
                                      
@@ -68,7 +68,7 @@ require_once("header.php");
                                 <span class="h2">3.</span>
                                 <h5>Result:</h5>
                                 <p>
-                                     In order to do this we decided to develop a set of libraries to handle data transfer from the device to the Accelmo platform (C++, MQTT); to develop a cloud based platform to handle device registration, credentials and monitoring (Python, NodeJS); to develop a set of services within the platform for distribution and exchange of data between registered devices and remote application end points (NodeJS/RabbitMQ).
+                                    Once all the layouts were ready our front end developers took over and converted the layout into a clickable interface ready to be tested and implemented. The overall result of our efforts was an application interface that was spot-on, ready to serve it's intended customers and built to maximise develeopment resource's efficiency and deliver the final product as fast and as stable as possible.
                                 </p>
                             </div>
                         </div>
