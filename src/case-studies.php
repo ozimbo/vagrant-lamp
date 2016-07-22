@@ -20,7 +20,7 @@ require_once("header.php");
             <section class="wide-grid masonry">
                 <div class="masonry__filters text-center" data-filter-all-text="Show All"></div>
                 <div class="masonry__container masonry--animate">
-                    <div class="col-md-3 col-sm-6 masonry__item" data-masonry-filter="IoT,UI">
+                    <div class="col-sm-6 masonry__item" data-masonry-filter="IoT,UI">
                         <a href="accelmo.php">
                             <div class="hover-element hover-element-1" data-title-position="top,right">
                                 <div class="hover-element__initial">
@@ -38,7 +38,7 @@ require_once("header.php");
                             <!--end hover element-->
                         </a>
                     </div>
-                    <div class="col-md-3 col-sm-6 masonry__item" data-masonry-filter="UX,UI">
+                    <div class="col-sm-6 masonry__item" data-masonry-filter="UX,UI,SAAS">
                         <a href="makemore.php">
                             <div class="hover-element hover-element-1" data-title-position="top,right">
                                 <div class="hover-element__initial">
@@ -92,7 +92,7 @@ require_once("header.php");
                             <!--end hover element-->
                         </a>
                     </div>
-                    <div class="col-md-3 col-sm-6 masonry__item" data-masonry-filter="Products,Other,UI,UX">
+                    <div class="col-sm-6 masonry__item" data-masonry-filter="Products,Other,UI,UX">
                         <a href="lean-workbook.php">
                             <div class="hover-element hover-element-1" data-title-position="top,right">
                                 <div class="hover-element__initial">
@@ -103,78 +103,6 @@ require_once("header.php");
                                         <h5>Lean Workbook</h5>
                                         <span>
                                             <em>Business planning tool</em>
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--end hover element-->
-                        </a>
-                    </div>
-                    <div class="col-md-3 col-sm-6 masonry__item" data-masonry-filter="Other,UI,UX">
-                        <a href="#">
-                            <div class="hover-element hover-element-1" data-title-position="top,right">
-                                <div class="hover-element__initial">
-                                    <img alt="Pic" src="img/case-studies/front/browsed.jpg" />
-                                </div>
-                                <div class="hover-element__reveal" data-overlay="9">
-                                    <div class="boxed">
-                                        <h5>Browsed</h5>
-                                        <span>
-                                            <em>WordPress theme layout and development</em>
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--end hover element-->
-                        </a>
-                    </div>
-                    <div class="col-md-3 col-sm-6 masonry__item" data-masonry-filter="Other,UI,UX">
-                        <a href="#">
-                            <div class="hover-element hover-element-1" data-title-position="top,right">
-                                <div class="hover-element__initial">
-                                    <img alt="Pic" src="img/case-studies/front/taxiapp.jpg" />
-                                </div>
-                                <div class="hover-element__reveal" data-overlay="9">
-                                    <div class="boxed">
-                                        <h5>Browsed</h5>
-                                        <span>
-                                            <em>WordPress theme layout and development</em>
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--end hover element-->
-                        </a>
-                    </div>
-                    <div class="col-md-3 col-sm-6 masonry__item" data-masonry-filter="Other,UI,UX">
-                        <a href="#">
-                            <div class="hover-element hover-element-1" data-title-position="top,right">
-                                <div class="hover-element__initial">
-                                    <img alt="Pic" src="img/case-studies/front/alwayswifi.jpg" />
-                                </div>
-                                <div class="hover-element__reveal" data-overlay="9">
-                                    <div class="boxed">
-                                        <h5>Browsed</h5>
-                                        <span>
-                                            <em>WordPress theme layout and development</em>
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--end hover element-->
-                        </a>
-                    </div>
-                    <div class="col-md-3 col-sm-6 masonry__item" data-masonry-filter="Other,UI,UX">
-                        <a href="#">
-                            <div class="hover-element hover-element-1" data-title-position="top,right">
-                                <div class="hover-element__initial">
-                                    <img alt="Pic" src="img/case-studies/front/eclipster.jpg" />
-                                </div>
-                                <div class="hover-element__reveal" data-overlay="9">
-                                    <div class="boxed">
-                                        <h5>Browsed</h5>
-                                        <span>
-                                            <em>WordPress theme layout and development</em>
                                         </span>
                                     </div>
                                 </div>

@@ -7,12 +7,12 @@ require_once("header.php");
                     <div class="row">
                         <div class="col-sm-12 text-center">
                             <h6>Case Study</h6>
-                            <h3>Accelmo - Bridging the gap between devices, the cloud, web and mobile development</h3>
+                            <h3>MakeMore - Effective financial reporting for small businesses</h3>
                             <p class="lead">
-                                Propulsion developed an Internet of Things platform from scratch - our work covered conceptualization and development of full service platform allowing two way communication between Internet enabled devices and Cloud based applications.
+                                Propulsion engineered and designed a complete user interface for financial reporting & management SAAS from the ground up. Started from a problem and a vision trough the discovery process into user stories, layout design and layout development. 
                                 <br /> 
                             </p>
-                            <h6>Technologies used: C++, MQTT, RabbitMQ, Python, NodeJS, HTML, CSS</h6>
+                            <h6>Technologies and techniques used: Wireframing, Empathy maps, Photoshop, HTML5, CSS3, JQuery, Bootstrap </h6>
                         </div>
                     </div>
                     <!--end of row-->
@@ -26,10 +26,10 @@ require_once("header.php");
                             <div class="slider" data-arrows="false" data-paging="true" data-timing="5000">
                                 <ul class="slides">
                                     <li>
-                                        <img alt="pic" src="img/case-studies/accelmo_web01.jpg" />
+                                        <img alt="pic" src="img/case-studies/lean_web01.jpg" />
                                     </li>
                                     <li>
-                                        <img alt="pic" src="img/case-studies/accelmo_web02.jpg" />
+                                        <img alt="pic" src="img/case-studies/lean_web02.jpg" />
                                     </li>
                                 </ul>
                             </div>
@@ -47,7 +47,7 @@ require_once("header.php");
                                 <span class="h2">1.</span>
                                 <h5>Challenge:</h5>
                                 <p>
-                                    The challange placed in front of us was simple - we were told: "We need a way to control a lot of solar panel carriers from the cloud. We need to monitor their activity, govern their movement automatically and manually when needed, collect and store sensor and electricity production data. And we need to have that available trough a cloud based platform/backend."
+                                    Described in as few words as possible, the task set in front of us was the following: "We want to build a SAAS that will help small business plan and allocate their budget spendings, have operational financial reporting available at all times and have that integrated with their banks. And we need it to look wonderful and be super easy to use.". Our job was to plan the application workflow, engineer the UX, design the layout and deliver the layout coded, ready for test driven development implementation.
                                 </p>
                             </div>
                         </div>
@@ -56,7 +56,7 @@ require_once("header.php");
                                 <span class="h2">2.</span>
                                 <h5>Our Solution:</h5>
                                 <p>
-                                    The core idea was to move heavy calculation processes out of the limited computing capacity of the device into unlimitied resources environment (the cloud) and allow data to flow both ways. Simply said - make it possible for cloud/mobile app developers to have control over devices and have their data streams available directly from within the code - in terms of objects and methods.
+                                    We began by discovering who the actual users of this product are going to be, what are their needs and went on to define the core solutions the app needs to provide and core features it should have. After that we went on and defined user stories and wireframes for the whole app. Once we had that nailed down our UI team was able to move in and create a realy pleasant interface that effectivly communicates all the important information and data to the customer.
 
 
                                      
@@ -68,7 +68,7 @@ require_once("header.php");
                                 <span class="h2">3.</span>
                                 <h5>Result:</h5>
                                 <p>
-                                     In order to do this we decided to develop a set of libraries to handle data transfer from the device to the Accelmo platform (C++, MQTT); to develop a cloud based platform to handle device registration, credentials and monitoring (Python, NodeJS); to develop a set of services within the platform for distribution and exchange of data between registered devices and remote application end points (NodeJS/RabbitMQ).
+                                    Once all the layouts were ready our front end developers took over and converted the layout into a clickable interface ready to be tested and implemented. The overall result of our efforts was an application interface that was spot-on, ready to serve it's intended customers and built to maximise develeopment resource's efficiency and deliver the final product as fast and as stable as possible.
                                 </p>
                             </div>
                         </div>
@@ -105,10 +105,14 @@ require_once("header.php");
                 <!--end of container-->
             </section>
             <section class="project-navigation">
+                <a href="moje-fakture.php">
+                    <span class="h5">
+                        <span class="larr">&larr;</span> Previous Project</span>
+                </a>
                 <a href="/case-studies.php">
                     <span class="h5">All Projects</span>
                 </a>
-                <a href="/makemore.php">
+                <a href="accelmo.php">
                     <span class="h5">Next Project
                         <span class="rarr">&rarr;</span>
                     </span>

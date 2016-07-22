@@ -22,6 +22,20 @@ require_once("header.php");
                     <div class="col-md-3 col-sm-6 masonry__item">
                         <div class="hover-element member member-2" data-title-position="center,center">
                             <div class="hover-element__initial">
+                                <img alt="Pic" src="img/team/madic.jpg" />
+                            </div>
+                            <div class="hover-element__reveal" data-overlay="9">
+                                <div class="boxed">
+                                    <h6>Senior Software Developer</h6>
+                                    <h5>Miloš Madić</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <!--end hover element-->
+                    </div>
+                    <div class="col-md-3 col-sm-6 masonry__item">
+                        <div class="hover-element member member-2" data-title-position="center,center">
+                            <div class="hover-element__initial">
                                 <img alt="Pic" src="img/team/matija.jpg" />
                             </div>
                             <div class="hover-element__reveal" data-overlay="9">
@@ -117,34 +131,8 @@ require_once("header.php");
                         </div>
                         <!--end hover element-->
                     </div>
-                    <div class="col-md-3 col-sm-6 masonry__item">
-                        <div class="hover-element member member-2" data-title-position="center,center">
-                            <div class="hover-element__initial">
-                                <img alt="Pic" src="img/avatar-team-1.jpg" />
-                            </div>
-                            <div class="hover-element__reveal" data-overlay="9">
-                                <div class="boxed">
-                                    <h6>UI Designer</h6>
-                                    <h5>Marko Živanović</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <!--end hover element-->
-                    </div>
-                    <div class="col-md-3 col-sm-6 masonry__item">
-                        <div class="hover-element member member-2" data-title-position="center,center">
-                            <div class="hover-element__initial">
-                                <img alt="Pic" src="img/avatar-team-1.jpg" />
-                            </div>
-                            <div class="hover-element__reveal" data-overlay="9">
-                                <div class="boxed">
-                                    <h6>UI Designer</h6>
-                                    <h5>Marko Živanović</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <!--end hover element-->
-                    </div>
+                    
+                    
                     <div class="col-md-3 col-sm-6 masonry__item">
                         <div class="hover-element member member-2" data-title-position="center,center">
                             <div class="hover-element__initial">
@@ -177,7 +165,7 @@ require_once("header.php");
                     <div class="col-md-3 col-sm-6 masonry__item">
                         <div class="hover-element member member-2" data-title-position="center,center">
                             <div class="hover-element__initial">
-                                <img alt="Pic" src="img/team/mirkovic.png" />
+                                <img alt="Pic" src="img/team/mirkovic.jpg" />
                             </div>
                             <div class="hover-element__reveal" data-overlay="9">
                                 <div class="boxed">

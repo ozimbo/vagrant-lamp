@@ -53,7 +53,7 @@
                         <div class="col-md-4 col-sm-8">
                             <h6>Recent News</h6>
                             <div class="twitter-feed">
-                                <div class="tweets-feed" data-widget-id="492085717044981760" data-amount="2"></div>
+                                <div class="tweets-feed" data-widget-id="profile_PropulsionApps" data-amount="2"></div>
                             </div>
                         </div>
                         <div class="col-md-4 col-md-offset-1 col-sm-12">

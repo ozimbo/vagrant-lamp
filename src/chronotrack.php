@@ -158,14 +158,14 @@ require_once("header.php");
                 <!--end of container-->
             </section>
             <section class="project-navigation">
-                <a href="#">
+                <a href="/makemore.php">
                     <span class="h5">
                         <span class="larr">&larr;</span> Previous Project</span>
                 </a>
-                <a href="#">
+                <a href="/case-studies.php">
                     <span class="h5">All Projects</span>
                 </a>
-                <a href="#">
+                <a href="/moje-fakture.php">
                     <span class="h5">Next Project
                         <span class="rarr">&rarr;</span>
                     </span>
